@@ -1,2 +1,2 @@
 # INFIG
-The code will be accessed soon.
+The training  code will be accessed soon.
