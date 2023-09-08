@@ -1,2 +1,2 @@
 # INFIG
-The model code will be accessed soon.
+This repository will be completed as soon as possible.
